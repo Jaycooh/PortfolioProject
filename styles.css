@@ -132,17 +132,17 @@ body>ul {
         width: 45%;
         margin-left: 45%;
         position: absolute;
-        top: 23%;
+        top: 25%;
     }
 
     .one {
-        text-align: center;
+        text-align: left;
         color: #fff;
         margin: 1rem;
         width: 45%;
         margin-left: 45%;
         position: absolute;
-        top: 60%;
+        top: 33%;
     }
 
     body>ul {
@@ -152,7 +152,7 @@ body>ul {
         margin: 4rem;
         width: 45%;
         margin-left: 45%;
-        top: 38%;
+        top: 39%;
         position: absolute;
     }
 
