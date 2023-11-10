@@ -106,7 +106,7 @@ body>ul {
     margin: 1rem;
 }
 
-@media (min-width: 750px) {
+@media (min-width: 1170px) {
     body>img {
         width: 30%;
         margin-left: 13.5%;
@@ -122,6 +122,7 @@ body>ul {
     }
 
     .first {
+        position: absolute;
         font-size: 20px;
         color: white;
         text-align: center;
@@ -131,8 +132,7 @@ body>ul {
         margin: 1rem;
         width: 45%;
         margin-left: 45%;
-        position: absolute;
-        top: 25%;
+        top: 237px;
     }
 
     .one {
@@ -140,22 +140,20 @@ body>ul {
         color: #fff;
         margin: 1rem;
         width: 45%;
-        margin-left: 45%;
+        margin-left: 46%;
         position: absolute;
-        top: 33%;
+        top: 315px;
+        font-size: 20px;
     }
 
     body>ul {
         text-align: left;
         color: #fff;
-        text-align: left;
         margin: 4rem;
         width: 45%;
-        margin-left: 45%;
-        top: 39%;
+        margin-left: 47%;
+        top: 450px;
         position: absolute;
+        font-size: 20px;
     }
-
-
-
 }
